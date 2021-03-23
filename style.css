@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+    background: linear-gradient(#02ed35 0%, #0d2fd9 100%);
+}
+
+img {
+    height: 250px;
+    width: 400px;
+}
+
+#fav {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 40px;
+    font-family: Syne Mono;
+}
+
+h4 {
+    font-size: 40px;
+    font-family: Syne Mono;
+}
+
+links:hover {
+    background-color: blueviolet;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 40px;
+    cursor: pointer;
+    color: black;
+}
